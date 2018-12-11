@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@antv/data-set": "^0.10.1",
+    "bizcharts": "^3.4.1",
+    "umi-plugin-react": "^1.2.3"
+  }
+}
